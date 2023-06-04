@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Teste de REST API para tutorial do YouTube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathanssz/tutorial-rest-api.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "youtube"
+  ],
+  "author": "Jonathan Santos de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathanssz/tutorial-rest-api/issues"
+  },
+  "homepage": "https://github.com/Jonathanssz/tutorial-rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

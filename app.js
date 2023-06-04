@@ -8,3 +8,5 @@ app.use('/produtos', rotaProdutos);
 app.use('/pedidos', rotaPedidos);
 
 module.exports = app;
+
+// Parei no passo 3
